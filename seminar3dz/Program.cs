@@ -10,7 +10,7 @@ bool polindrom(int num)
 
 Console.Write("Введите 5-ти значное число ");
 int number = Convert.ToInt32(Console.ReadLine());
-if (number>9999 & number<99999)
+if (number>9999 & number<100000)
 {
     bool poli = polindrom(number);
     if (poli) Console.WriteLine($"Число {number} полиндром");
