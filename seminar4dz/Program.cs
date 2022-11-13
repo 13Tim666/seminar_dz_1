@@ -3,8 +3,8 @@
 
 /*
 int Stepen(int a, int b){
-    int result = a;
-    for (int i = 1; i < b; i++){
+    int result = 1;
+    for (int i = 0; i < b; i++){
         result = result * a;
     }
     return result;
@@ -15,14 +15,13 @@ int a = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите степень: ");
 int b = Convert.ToInt32(Console.ReadLine());
 
-if (b > 0){
+if (b >= 0){
     int result = Stepen(a, b);
     Console.WriteLine($"{a}^{b}={result}");
 } 
-if (b == 0){
-    Console.WriteLine($"{a}^{b}=1");
-} 
-if (b < 0) Console.WriteLine("Программа не умеет вычислять корень");
+else{
+    Console.WriteLine("Программа не умеет вычислять корень");
+}
 */
 
 //Задача 27: Напишите программу, которая принимает на вход 
