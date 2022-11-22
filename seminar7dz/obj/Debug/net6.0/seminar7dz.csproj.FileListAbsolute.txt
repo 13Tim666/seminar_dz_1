@@ -1,0 +1,15 @@
+C:\Users\agaev\OneDrive\Рабочий стол\seminar_c\seminar7dz\obj\Debug\net6.0\seminar7dz.csproj.AssemblyReference.cache
+C:\Users\agaev\OneDrive\Рабочий стол\seminar_c\seminar7dz\obj\Debug\net6.0\seminar7dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agaev\OneDrive\Рабочий стол\seminar_c\seminar7dz\obj\Debug\net6.0\seminar7dz.AssemblyInfoInputs.cache
+C:\Users\agaev\OneDrive\Рабочий стол\seminar_c\seminar7dz\obj\Debug\net6.0\seminar7dz.AssemblyInfo.cs
+C:\Users\agaev\OneDrive\Рабочий стол\seminar_c\seminar7dz\obj\Debug\net6.0\seminar7dz.csproj.CoreCompileInputs.cache
+C:\Users\agaev\OneDrive\Рабочий стол\seminar_c\seminar7dz\bin\Debug\net6.0\seminar7dz.exe
+C:\Users\agaev\OneDrive\Рабочий стол\seminar_c\seminar7dz\bin\Debug\net6.0\seminar7dz.deps.json
+C:\Users\agaev\OneDrive\Рабочий стол\seminar_c\seminar7dz\bin\Debug\net6.0\seminar7dz.runtimeconfig.json
+C:\Users\agaev\OneDrive\Рабочий стол\seminar_c\seminar7dz\bin\Debug\net6.0\seminar7dz.dll
+C:\Users\agaev\OneDrive\Рабочий стол\seminar_c\seminar7dz\bin\Debug\net6.0\seminar7dz.pdb
+C:\Users\agaev\OneDrive\Рабочий стол\seminar_c\seminar7dz\obj\Debug\net6.0\seminar7dz.dll
+C:\Users\agaev\OneDrive\Рабочий стол\seminar_c\seminar7dz\obj\Debug\net6.0\refint\seminar7dz.dll
+C:\Users\agaev\OneDrive\Рабочий стол\seminar_c\seminar7dz\obj\Debug\net6.0\seminar7dz.pdb
+C:\Users\agaev\OneDrive\Рабочий стол\seminar_c\seminar7dz\obj\Debug\net6.0\seminar7dz.genruntimeconfig.cache
+C:\Users\agaev\OneDrive\Рабочий стол\seminar_c\seminar7dz\obj\Debug\net6.0\ref\seminar7dz.dll
